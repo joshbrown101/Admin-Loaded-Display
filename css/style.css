@@ -1,0 +1,41 @@
+ul#ald_loaded {
+
+    /*width: 400px;
+    height: 400px;*/
+}
+div#ald-admin-box {
+    width: 350px;
+    background: white;
+}
+
+#wp-admin-bar-ald_page div#ald-admin-box a {
+    display: inline-block;
+    width: 50%;
+    background: lightblue;
+    margin: 0;
+    padding: 0;
+    height: 19px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 0;
+    font-size: 11px;
+    line-height: 24px;
+    font-weight:bold;
+}
+li.ald_scripts {
+    color: black;
+    display: block;
+}
+
+ul#ald_loaded {
+    text-align: left;
+    display: block;
+}
+
+ul#ald_loaded li {
+    display: block;
+    float: none;
+    padding: 0 12px;
+    background: white;
+    border-bottom: 1px solid gray;
+}
